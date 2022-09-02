@@ -4,4 +4,4 @@ class Dog:
         self.name = name
 
     def ladrar(self):
-        print('GUAU')
+        print(self.name)
